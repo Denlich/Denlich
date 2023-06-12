@@ -4,23 +4,27 @@
 <h3 align="left">About me</h3>
 <p align="left">
   As a web developer, I have experience with UI libraries and frameworks that are related to JavaScript, such as:
-- React.js
-- React Native
-- Node.js
-- MongoDB
-- Next.js
-- Redux.js
-- charts.js / re-charts.js
-- MaterialUI
-- TailwindCSS
-- styled-components
-- SCSS / Sass / Less / BEM
-- HTML5/CSS3
+  <ul>
+    <li>React.js</li>
+    <li>React Native</li>
+    <li>Node.js</li>
+    <li>MongoDB</li>
+    <li>Next.js</li>
+    <li>Redux.js</li>
+    <li>charts.js / re-charts.js</li>
+    <li>MaterialUI</li>
+    <li>TailwindCSS</li>
+    <li>styled-components</li>
+    <li>SCSS / Sass / Less / BEM</li>
+    <li>HTML5/CSS3</li>
+  </ul>
 
 Beside a development tools as a freelancer I am also trained to work with tasks management tools and design applications:
-- Jira / Trello / ClickUP / Togl
-- Figma / Sketch / Adobe / Invision / Zeplin
-- GitHub / GitLab / Bitbucket
+<ul>
+  <li>Jira / Trello / ClickUP / Togl</li>
+  <li>Figma / Sketch / Adobe / Invision / Zeplin</li>
+  <li>GitHub / GitLab / Bitbucket</li>
+</ul>
 </p>
 
 <h3 align="left">Connect with me:</h3>
