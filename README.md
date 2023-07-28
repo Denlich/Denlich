@@ -35,7 +35,6 @@ Beside a development tools as a freelancer I am also trained to work with tasks 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denlich&show_icons=true&locale=en" alt="denlich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denlich&" alt="denlich" /></p>
-<p><img src="https://komarev.com/ghpvc/?username=denlich&style=flat-square&color=blue" alt=""/></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Denlich"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Denlich" /></a></p><br><br>
